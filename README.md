@@ -1,5 +1,9 @@
 # Bamazon
 
+:https://www.youtube.com/watch?v=kgGlt-u6Lfw 
+[![BAMAZON](https://img.youtube.com/vi/kgGlt-u6Lfw/0.jpg)](https://www.youtube.com/watch?v=kgGlt-u6Lfw)
+
+
 ## Description
 
 This application uses Node.js & MySQL to implement a command line based storefront.<br/>
