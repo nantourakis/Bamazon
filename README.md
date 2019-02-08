@@ -11,8 +11,7 @@ I've built this app with the help of the following npm packages: <br>
 <li>npm colors (https://www.npmjs.com/package/colors)</li>
 <li>npm cli-table https://www.npmjs.com/package/cli-table</li>
 <ul>
-<br/>
-<br/><br/>Please see the demo video recording for this app below:<br/>
+<br/>Please see the demo video recording for this app below:<br/>
 <br/>
   
   
